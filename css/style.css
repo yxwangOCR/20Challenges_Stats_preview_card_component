@@ -109,31 +109,31 @@ body .app section {
     margin-top: 2em;
   }
 }
-body .app section span {
+body .app section div {
   margin: 1em 0;
 }
 @media (min-width: 992px) {
-  body .app section span {
+  body .app section div {
     text-align: left;
   }
 }
-body .app section span h2 {
+body .app section div h2 {
   margin: 0;
   color: hsl(0deg, 0%, 100%);
 }
 @media (min-width: 992px) {
-  body .app section span h2 {
+  body .app section div h2 {
     font-size: 1rem;
   }
 }
-body .app section span p {
+body .app section div p {
   font-size: 0.8rem;
   margin: 0.5em 0 0 0;
   color: hsla(0deg, 0%, 100%, 0.6);
   text-transform: uppercase;
 }
 @media (min-width: 992px) {
-  body .app section span p {
+  body .app section div p {
     font-size: 0.6rem;
   }
 }
